@@ -1,3 +1,3 @@
 # Sillylittlepc
 Do not open unless me
-http://singularityglobal.giize.com:8562/
+http://singularityglobal.giize.com:8562/index.html
